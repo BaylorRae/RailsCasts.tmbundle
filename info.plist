@@ -7,7 +7,7 @@
 	<key>contactName</key>
 	<string>Ryan Bates</string>
 	<key>description</key>
-	<string>New shiny bundle for X.</string>
+	<string>This theme is used by Ryan Bates on &lt;a href="http://railscasts.com"&gt;RailsCasts.com&lt;/a&gt;. It is custom made and based off of the theme by &lt;a href="http://fluidsyntax.com/blog/articles/idlefingers-textmate-theme"&gt;idlefingers&lt;/a&gt;.</string>
 	<key>name</key>
 	<string>RailsCasts</string>
 	<key>uuid</key>
